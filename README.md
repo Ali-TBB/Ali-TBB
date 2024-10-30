@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate software developer from algria</h3>
+<h3 align="center">A passionate Software developer from algria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-tbb&label=Profile%20views&color=0e75b6&style=flat" alt="ali-tbb" /> </p>
 
